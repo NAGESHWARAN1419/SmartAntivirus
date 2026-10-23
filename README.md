@@ -45,6 +45,8 @@ Technologies Used
 8.Project Structure
 
 
+
+
 SmartAntivirus/
 
 └──main.py
