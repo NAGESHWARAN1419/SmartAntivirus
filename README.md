@@ -1,4 +1,5 @@
 Smart Antivirus — Python GUI File Scanner
+<img width="749" height="605" alt="image" src="https://github.com/user-attachments/assets/61f2a09a-bffe-4475-93d1-4c19db3253ec" />
 
 Overview
 
@@ -24,39 +25,42 @@ CSV Reports: Records scan results, hashes, timestamps, and statuses.
 
 Modular Design: Separates scanning, monitoring, quarantine, updating, and reporting into individual Python modules.
 
+
 Technologies Used
 
-Python 3
+1.Python 3
 
-Tkinter
+2.Tkinter
 
-hashlib
+3.hashlib
 
-pathlib
+4.pathlib
 
-watchdog
+5.watchdog
 
-CSV file handling
+6.CSV file handling
 
-Kali Linux
+7.Kali Linux
 
-Project Structure
+8.Project Structure
 
 SmartAntivirus/
-├── main.py
-├── scanner.py
-├── database.py
-├── quarantine_manager.py
-├── monitor.py
-├── updater.py
-├── report_logger.py
-├── signatures.txt
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── test_folder/
-├── quarantine/
+
+└──main.py
+└──scanner.py
+└──database.py
+└──quarantine_manager.py
+└──monitor.py
+└──updater.py
+└──report_logger.py
+└──signatures.txt
+└──requirements.txt
+└──README.md
+└──.gitignore
+└──test_folder/
+└──quarantine/
 └── reports/
+
 
 Installation
 
