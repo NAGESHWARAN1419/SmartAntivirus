@@ -44,21 +44,35 @@ Technologies Used
 
 8.Project Structure
 
+
 SmartAntivirus/
 
 └──main.py
+
 └──scanner.py
+
 └──database.py
+
 └──quarantine_manager.py
+
 └──monitor.py
+
 └──updater.py
+
 └──report_logger.py
+
 └──signatures.txt
+
 └──requirements.txt
+
 └──README.md
+
 └──.gitignore
+
 └──test_folder/
+
 └──quarantine/
+
 └── reports/
 
 
